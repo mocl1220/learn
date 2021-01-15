@@ -12,4 +12,8 @@ jiarule ssh key
 
 new branch
 
+<<<<<<< HEAD
 主分支加一行  
+=======
+创建了分支1  
+>>>>>>> fenzhi1
